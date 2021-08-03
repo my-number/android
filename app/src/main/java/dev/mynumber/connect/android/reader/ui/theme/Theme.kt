@@ -1,4 +1,4 @@
-package dev.mynumber.connect.android.ui.theme
+package dev.mynumber.connect.android.reader.ui.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

@@ -1,4 +1,4 @@
-package dev.mynumber.connect.android.ui.components
+package dev.mynumber.connect.android.reader.ui.components
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Row
@@ -18,7 +18,7 @@ import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import dev.mynumber.connect.android.ui.theme.InfoTopicIconBg
+import dev.mynumber.connect.android.reader.ui.theme.InfoTopicIconBg
 
 @Composable
 fun InfoTopic(

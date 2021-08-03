@@ -1,8 +1,8 @@
-package dev.mynumber.connect.android.ui
+package dev.mynumber.connect.android.reader.ui
 
 import androidx.compose.runtime.Composable
 import androidx.navigation.NavController
-import dev.mynumber.connect.android.ui.screens.*
+import dev.mynumber.connect.android.reader.ui.screens.*
 
 
 enum class Screens(

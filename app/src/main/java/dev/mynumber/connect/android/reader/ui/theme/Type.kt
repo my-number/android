@@ -1,4 +1,4 @@
-package dev.mynumber.connect.android.ui.theme
+package dev.mynumber.connect.android.reader.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
